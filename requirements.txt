@@ -1,0 +1,11 @@
+dash==2.10.2
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+jupyter-dash==0.4.2
+pandas==2.0.2
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+scikit-learn==1.2.2
+numpy==1.24.3
+seaborn==0.12.2

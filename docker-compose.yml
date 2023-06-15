@@ -1,0 +1,12 @@
+version: '3'
+ 
+services:
+  dash:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: dash_container
+    restart: always
+    privileged: true
+    ports:
+      - 8050:8050
