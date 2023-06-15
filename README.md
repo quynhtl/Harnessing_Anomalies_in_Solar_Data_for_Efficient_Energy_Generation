@@ -1,0 +1,1 @@
+# Harnessing_Anomalies_in_Solar_Data_for_Efficient_Energy_Generation
